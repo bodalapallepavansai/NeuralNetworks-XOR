@@ -31,6 +31,6 @@ Repeat until the error is minimal
 
 
 Choosing the number of epochs and the value of the learning rate decides two things: how accurate the model is, and how fast did the model take to compute the final output.
-The output with epochs = 300 and learning rate = 0.1 is:
+The output with epochs = 100000 and learning rate = 0.1 is:
 
 
