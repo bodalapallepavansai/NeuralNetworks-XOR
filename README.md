@@ -37,13 +37,16 @@ Neural Network Diagram:
 Training Algorithm:
 
 A neural network learns by updating its weights according to a learning algorithm that helps it converge to the expected output.
-Initialize the weights and biases randomly.
-Iterate over the data
-Compute the predicted output using the sigmoid function
-Compute the loss using the square error loss function
-W(new) = W(old) — α.∆W
-b(new) = b(old) — α.∆b
-Repeat until the error is minimal
+Step1: Import the required Python libraries 
+Step2: Define Activation Function : Sigmoid Function 
+Step3: Initialize neural network parameters (weights, bias) 
+and define model hyperparameters (number of iterations, learning rate) 
+Step4: Forward Propagation 
+Step5: Backward Propagation 
+Step6: Update weight and bias parameters 
+Step7: Train the learning model 
+Step8: Plot Loss value vs Epoch 
+Step9: Test the model performance 
 
 
 Choosing the number of epochs and the value of the learning rate decides two things: how accurate the model is, and how fast did the model take to compute the final output.
