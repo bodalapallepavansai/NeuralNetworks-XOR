@@ -38,6 +38,12 @@ Training Algorithm:
 
 A neural network learns by updating its weights according to a learning algorithm that helps it converge to the expected output.
 
+Flowchart:
+
+
+![image](https://user-images.githubusercontent.com/69682199/163686731-6174e2d9-471e-45dd-bdbc-0c2de9c1e6e8.png)
+
+
 Step1: Import the required Python libraries 
 
 Step2: Define Activation Function : Sigmoid Function 
