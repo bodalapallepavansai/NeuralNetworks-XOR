@@ -27,6 +27,11 @@ The sigmoid function is a continuous function which outputs values between 0 and
 ![image](https://user-images.githubusercontent.com/69682199/163686071-52669de0-8864-4753-9d1f-1f0770ce126f.png)
 
 
+Neural Network Diagram:
+
+![image](https://user-images.githubusercontent.com/69682199/163686318-b44a4150-6b69-49f6-8966-25336b1f202e.png)
+
+
 Training Algorithm:
 
 A neural network learns by updating its weights according to a learning algorithm that helps it converge to the expected output.
