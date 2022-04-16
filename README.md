@@ -45,6 +45,14 @@ Repeat until the error is minimal
 
 
 Choosing the number of epochs and the value of the learning rate decides two things: how accurate the model is, and how fast did the model take to compute the final output.
-The output with epochs = 100000 and learning rate = 0.1 is:
+The output with epochs = 100000 and learning rate = 0.1.
+
+
+Hence, the neural network has converged to the expected output:
+[0 1 1 0]. The epoch vs error graph shows how the error is minimized.
+
+![image](https://user-images.githubusercontent.com/69682199/163686406-e0ac4c56-50ae-42bf-a19c-c040cc2c106b.png)
+
+
 
 
