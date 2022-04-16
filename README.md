@@ -18,6 +18,12 @@ The output of the sigmoid neuron is a function of the sigmoid function, which is
 
 The sigmoid function is a continuous function which outputs values between 0 and 1
 
+![image](https://user-images.githubusercontent.com/69682199/163686104-e684ecde-4368-4cba-a274-73a2a9712010.png)
+
+
+![image](https://user-images.githubusercontent.com/69682199/163686071-52669de0-8864-4753-9d1f-1f0770ce126f.png)
+
+
 Training Algorithm:
 
 A neural network learns by updating its weights according to a learning algorithm that helps it converge to the expected output.
