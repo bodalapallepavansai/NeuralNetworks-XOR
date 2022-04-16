@@ -1,3 +1,5 @@
+>                                         XOR Gate using Neural Network Backpropagation Algorithm
+
 An XOR (exclusive OR gate) is a digital logic gate that gives a true output only when both its inputs differ from each other. 
 The truth table for an XOR gate is shown below:
 
