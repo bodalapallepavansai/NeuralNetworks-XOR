@@ -18,7 +18,7 @@ Can accept real values as input.
 The value of the activation is equal to the weighted sum of its inputs i.e. ∑wi.xi
 The output of the sigmoid neuron is a function of the sigmoid function, which is also known as a logistic regression function. 
 
-![image](https://user-images.githubusercontent.com/69682199/163686192-2f54ffaa-f494-47c7-878e-745f858e2021.png)
+![image](https://user-images.githubusercontent.com/69682199/163686875-1c545061-2d1d-40f7-9ab7-a735033ee71c.png)
 
 
 The sigmoid function is a continuous function which outputs values between 0 and 1
