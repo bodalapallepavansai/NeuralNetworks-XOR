@@ -43,8 +43,7 @@ Step1: Import the required Python libraries
 Step2: Define Activation Function : Sigmoid Function 
 
 Step3: Initialize neural network parameters (weights, bias) 
-
-and define model hyperparameters (number of iterations, learning rate) 
+ and define model hyperparameters (number of iterations, learning rate) 
 
 Step4: Forward Propagation 
 
